@@ -1,0 +1,10 @@
+local_settings.py
+db.sqlite3
+geckodriver.log
+virtualenv
+__pycache__
+*.pyc
+*.swp
+
+secret_settings.py
+static/
