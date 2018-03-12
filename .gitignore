@@ -6,5 +6,5 @@ __pycache__
 *.pyc
 *.swp
 
-secret_settings.py
+settings_secret.py
 static/
