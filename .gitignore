@@ -2,6 +2,7 @@ local_settings.py
 db.sqlite3
 geckodriver.log
 virtual_env
+virtualenv
 __pycache__
 *.pyc
 *.swp
